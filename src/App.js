@@ -18,8 +18,6 @@ function App() {
     <div className="App">
       <h1>Olá React!</h1>
       <h2>Meu primeiro app com react</h2>
-      <p>Olha só, estou criando meu primeiro app com react</p>
-     
       <p>Soma: {sum(1, 2)}</p> 
       <img src={url} alt='Minha imagem'/>
       <p>Olha só, estou criando meu primeiro app com react, sou o {newName}</p>
